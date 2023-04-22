@@ -27,5 +27,5 @@ pip install chromedriver_binary==87.0.4280.88    #install the version that corre
 ## Run 
 ```bash 
 # Running Scraper File.. 
-Automated-Web-Scraper-For-Amazon.com.ipynb 
+Automated Web Scraper For Amazon.com.ipynb 
 ```
